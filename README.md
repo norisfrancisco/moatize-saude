@@ -1,6 +1,7 @@
 # 🦅 NORZEC | Inteligência Epidemiológica: O Custo Invisível do Carvão
 *"Matematizando incertezas."*
-
+[![NORZEC Status](https://img.shields.io/badge/Status-Ativo-10b981?style=for-the-badge)](https://github.com/seu-usuario)
+[![Data Science](https://img.shields.io/badge/Data_Storytelling-Dashboard-0f172a?style=for-the-badge)](#)
 
 Este repositório contém o painel interativo de **Saúde Pública e Epidemiologia** desenvolvido pela **NORZEC - Inteligência Analítica**. O projeto demonstra a aplicação de Data Science e Data Storytelling para mapear o impacto da atividade mineral na saúde das comunidades locais em Moatize, Tete (Moçambique).
 
